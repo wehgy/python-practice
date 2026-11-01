@@ -1,1 +1,2 @@
-Day 0: Downloaded Python, VS Code, Python, WSL; finished OverTheWire Bandit level one; and checked out the purpose of some Linux terminal commands.
+Day 0: Downloaded Python, VS Code, Python, WSL; passed OverTheWire Bandit level zero; and checked out the purpose of some Linux terminal commands.
+Day 1: Completed the first 2 problems from CS50 Python course (Indoor Voice and Playback Speed), also got to the 5th OverTheWire Bandit level. Wrote basic python code that asks for a person's age and name.
