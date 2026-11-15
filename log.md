@@ -4,4 +4,5 @@ Day 2 (November 2, 2026): Finished 2 more "CS50 Problem set 0" problems, got to 
 Day 3 (November 3, 2026): Did one and last problem from CS50 Problem set 0; reached 12th level from OverTheWire bandit, continued watching YT guides on Linux terminal commands.
 Day 4 (November 11, 2026): Watched 2nd CS50P video and finished two problems from Problem Set 1, reached 14th level on Bandit.
 Day 5 (November 12, 2026): Kind of out of topic since it's not python, but started CS50 cybersecurity course and already submitted my Assignment 0.
-Day 6 (November 13, 2026): Submitted File Extensions (3rd problem) from Problem set 1 and also submitted "Assignment 1: Securing data" from CS50 cybersecurity.
+Day 6 (November 13, 2026): Submitted File Extensions (3rd problem from Problem set 1,) and also submitted "Assignment 1: Securing data" from CS50 cybersecurity.
+Day 7 (November 14, 2026): Finished Math Interpreter (4th problem from Problem set 1,) and reached Bandit 17.
