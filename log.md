@@ -6,3 +6,5 @@ Day 4 (November 11, 2026): Watched 2nd CS50P video and finished two problems fro
 Day 5 (November 12, 2026): Kind of out of topic since it's not python, but started CS50 cybersecurity course and already submitted my Assignment 0.
 Day 6 (November 13, 2026): Submitted File Extensions (3rd problem from Problem set 1,) and also submitted "Assignment 1: Securing data" from CS50 cybersecurity.
 Day 7 (November 14, 2026): Finished Math Interpreter (4th problem from Problem set 1,) and reached Bandit 17.
+Day 8 (November 15, 2026): Reached Bandit level 20 and finished all of problems from CS50 Python Problem Set 1.
+Day 9 (November 16, 2026): Watched and submitted assignment from CS50 Cybersecurity Lecture 2 - Securing Systems, reached bandit level 21 ( To be updated )
