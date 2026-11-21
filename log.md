@@ -8,4 +8,4 @@ Day 6 (November 13, 2026): Submitted File Extensions (3rd problem from Problem s
 Day 7 (November 14, 2026): Finished Math Interpreter (4th problem from Problem set 1,) and reached Bandit 17.
 Day 8 (November 15, 2026): Reached Bandit level 20 and finished all of problems from CS50 Python Problem Set 1.
 Day 9 (November 16, 2026): Watched and submitted assignment from CS50 Cybersecurity Lecture 2 - Securing Systems, reached bandit level 21 ( To be updated )
-Day 10 & 11 (November 18, 19): Watched and submitted assignment from CS50 Cybersecurity Lecture 2 - Securing Software, tried solving some CyLab problems. 
+Day 10 & 11 (November 18, 19): Watched and submitted assignment from CS50 Cybersecurity Lecture 3 - Securing Software, tried solving some CyLab problems. 
